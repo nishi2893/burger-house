@@ -7,4 +7,18 @@ This application creates a burger with the help of the given ingredients and cal
 
 More functionalities like creating combo meals, creating menus for the customer will be added to the project in the future as well as Redux will be added to the project. 
 
+## What I used?
+
+- React 16 / Jsx pages
+- React Router
+- Axios
+- Webpack
+- Babel
+- Pure JavaScript
+- HTML5
+- CSS3 w/ Mobile First
+- FireBase for Database
+
+
+
 
