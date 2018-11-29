@@ -19,6 +19,8 @@ More functionalities like creating combo meals, creating menus for the customer 
 - CSS3 w/ Mobile First
 - FireBase for Database
 
+# Live version is available here (https://nishi2893.github.io/burger-house)
+
 
 
 
